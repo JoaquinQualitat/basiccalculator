@@ -20,7 +20,9 @@ public class TestarResta {
 	    assertTrue(true);
 	}
 	//Comentario
-	/comentario
+	//comentario
+	//comentario`
+	//comentario
 
 	@When("^Introduir First number$")
 	public void Introduir_First_number() throws Throwable {
