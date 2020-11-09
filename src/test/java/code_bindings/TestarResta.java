@@ -24,6 +24,7 @@ public class TestarResta {
 	//comentario`
 	//comentario
 	//comentario 1
+	//comentario 2
 
 	@When("^Introduir First number$")
 	public void Introduir_First_number() throws Throwable {
