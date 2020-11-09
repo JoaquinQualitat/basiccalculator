@@ -5,8 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>basic_calculator</name>
   <description>Cucumber Selenium Octane</description>
-  
-  <properties>
+    <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   
