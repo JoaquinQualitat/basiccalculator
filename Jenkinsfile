@@ -1,9 +1,5 @@
 pipeline {
   agent {
-    node {
-      label 'Tom_Local'
-    }
-
   }
   stages {
     stage('Test') {
