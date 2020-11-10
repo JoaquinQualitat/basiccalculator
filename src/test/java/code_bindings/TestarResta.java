@@ -19,7 +19,15 @@ public class TestarResta {
 	    // Write code here that turns the phrase above into concrete actions
 	    assertTrue(true);
 	}
-
+	//Comentario
+	//comentario
+	//comentario`
+	//comentario
+	//comentario 1
+	//comentario 2
+	//comentario 3
+	//comentario 3
+	
 	@When("^Introduir First number$")
 	public void Introduir_First_number() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
@@ -41,7 +49,9 @@ public class TestarResta {
 	@Then("^En Answer ha d´aparèixer el resultat$")
 	public void En_Answer_el_resultat() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
-		 assertTrue(true);
-	}
+		 assertTrue(false);
+		
+	} 
+	
 	
 }
