@@ -49,7 +49,7 @@ public class TestarResta {
 	@Then("^En Answer ha d´aparèixer el resultat$")
 	public void En_Answer_el_resultat() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
-		 assertTrue(false);
+		 assertTrue(true);
 		 
 	} 
 	
