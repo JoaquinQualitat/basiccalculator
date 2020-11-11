@@ -20,9 +20,7 @@ public class TestarResta {
 	    assertTrue(true);
 	}
 	//Comentario
-	//comentario
-	//comentario`
-	//comentario
+
 	//comentario 1
 	//comentario 2
 	//comentario 3
