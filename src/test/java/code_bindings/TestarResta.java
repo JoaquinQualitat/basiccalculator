@@ -42,6 +42,5 @@ public class TestarResta {
 	public void En_Answer_el_resultat() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
 		 assertTrue(true);
-		 
 	} 
 }
